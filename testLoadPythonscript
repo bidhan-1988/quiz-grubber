@@ -1,0 +1,17 @@
+import requests
+ 
+url = "http://localhost:4000"
+ 
+payload = '{"query":"query {getQuestions(username:\\"manishaAher\\",lastId:0) {question_id question category correctoption}}"}'
+
+headers = {
+    'content-type': "application/json",
+    'Accept-Encoding': "gzip, deflate, br",
+    'Accept-Language': "en-US,en;q=0.9",
+    'Connection': "keep-alive",
+    'Content-Length': "255"
+    }
+
+for x in range(5):
+  response = requests.request("POST", url, data=payload, headers=headers)
+  print("test : " + str(x))

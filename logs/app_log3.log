@@ -1,0 +1,123 @@
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:23:17.612Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','10', 'false');","level":"info","timestamp":"2020-08-28T15:23:22.400Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:23:22.402Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','11', 'false');","level":"info","timestamp":"2020-08-28T15:23:26.516Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:23:26.523Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','3', 'false');","level":"info","timestamp":"2020-08-28T15:24:27.723Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:24:27.873Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','10', 'true');","level":"info","timestamp":"2020-08-28T15:24:34.262Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:24:34.270Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','11', 'true');","level":"info","timestamp":"2020-08-28T15:24:36.779Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:24:36.790Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','23', 'true');","level":"info","timestamp":"2020-08-28T15:24:41.298Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:24:41.306Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','23', 'true');","level":"info","timestamp":"2020-08-28T15:24:41.547Z"}
+{"message":"ERROR Answer question : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:24:41.554Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','28', 'false');","level":"info","timestamp":"2020-08-28T15:24:53.976Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:24:54.130Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','24', 'true');","level":"info","timestamp":"2020-08-28T15:24:59.968Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:24:59.975Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','38', 'true');","level":"info","timestamp":"2020-08-28T15:25:04.375Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:25:04.385Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','39', 'false');","level":"info","timestamp":"2020-08-28T15:25:20.424Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:25:20.572Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','40', 'true');","level":"info","timestamp":"2020-08-28T15:27:59.966Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:28:00.300Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','41', 'false');","level":"info","timestamp":"2020-08-28T15:29:33.086Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:29:33.520Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','42', 'true');","level":"info","timestamp":"2020-08-28T15:38:07.853Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:38:08.034Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','43', 'false');","level":"info","timestamp":"2020-08-28T15:38:12.430Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:38:12.441Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','43', 'false');","level":"info","timestamp":"2020-08-28T15:38:14.422Z"}
+{"message":"ERROR Answer question : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:38:14.431Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','45', 'true');","level":"info","timestamp":"2020-08-28T15:38:25.179Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-28T15:38:25.392Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','44', 'false');","level":"info","timestamp":"2020-08-29T06:49:18.810Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-29T06:49:18.909Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','46', 'true');","level":"info","timestamp":"2020-08-29T06:49:23.162Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-29T06:49:23.169Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','47', 'true');","level":"info","timestamp":"2020-08-29T06:49:27.055Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-29T06:49:27.061Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','48', 'true');","level":"info","timestamp":"2020-08-29T06:49:30.826Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-29T06:49:30.828Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','54', 'true');","level":"info","timestamp":"2020-08-29T06:49:34.354Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-29T06:49:34.355Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','55', 'true');","level":"info","timestamp":"2020-08-29T06:49:37.690Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-29T06:49:37.695Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','56', 'true');","level":"info","timestamp":"2020-08-29T06:49:41.037Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-29T06:49:41.042Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','57', 'true');","level":"info","timestamp":"2020-08-29T06:49:44.589Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-29T06:49:44.591Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','58', 'false');","level":"info","timestamp":"2020-08-29T06:49:47.477Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-29T06:49:47.486Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','59', 'true');","level":"info","timestamp":"2020-08-29T06:49:50.989Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-29T06:49:50.998Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','63', 'false');","level":"info","timestamp":"2020-08-29T06:49:54.085Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-29T06:49:54.091Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','126', 'true');","level":"info","timestamp":"2020-08-30T15:13:05.691Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-30T15:13:05.784Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','127', 'true');","level":"info","timestamp":"2020-08-30T15:13:10.905Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-30T15:13:10.912Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','128', 'false');","level":"info","timestamp":"2020-08-30T15:13:15.232Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-08-30T15:13:15.238Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','129', 'true');","level":"info","timestamp":"2020-09-01T16:00:45.215Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:00:45.414Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','130', 'false');","level":"info","timestamp":"2020-09-01T16:00:52.715Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:00:52.721Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','131', 'true');","level":"info","timestamp":"2020-09-01T16:01:00.568Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:01:00.579Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','132', 'true');","level":"info","timestamp":"2020-09-01T16:01:05.667Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:01:05.672Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','64', 'false');","level":"info","timestamp":"2020-09-01T16:01:37.322Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:01:37.333Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','65', 'true');","level":"info","timestamp":"2020-09-01T16:01:48.078Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:01:48.255Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','90', 'true');","level":"info","timestamp":"2020-09-01T16:01:59.572Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:01:59.778Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','91', 'true');","level":"info","timestamp":"2020-09-01T16:02:06.666Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:02:06.676Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','92', 'true');","level":"info","timestamp":"2020-09-01T16:02:14.680Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:02:14.691Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','93', 'true');","level":"info","timestamp":"2020-09-01T16:02:20.074Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:02:20.084Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','94', 'true');","level":"info","timestamp":"2020-09-01T16:02:27.550Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:02:27.565Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','95', 'false');","level":"info","timestamp":"2020-09-01T16:02:38.497Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:02:38.684Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','96', 'true');","level":"info","timestamp":"2020-09-01T16:02:43.690Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:02:43.698Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','97', 'false');","level":"info","timestamp":"2020-09-01T16:02:51.576Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:02:51.579Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','98', 'true');","level":"info","timestamp":"2020-09-01T16:03:03.337Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:03:03.506Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','99', 'false');","level":"info","timestamp":"2020-09-01T16:03:08.791Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:03:08.799Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','100', 'true');","level":"info","timestamp":"2020-09-01T16:03:14.459Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:03:14.473Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','101', 'true');","level":"info","timestamp":"2020-09-01T16:03:21.222Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:03:21.236Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','102', 'false');","level":"info","timestamp":"2020-09-01T16:03:31.678Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:03:31.857Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','103', 'false');","level":"info","timestamp":"2020-09-01T16:03:38.610Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:03:38.621Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','151', 'true');","level":"info","timestamp":"2020-09-01T16:04:15.299Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:04:15.313Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','152', 'true');","level":"info","timestamp":"2020-09-01T16:04:22.644Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:04:22.651Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','153', 'true');","level":"info","timestamp":"2020-09-01T16:04:27.688Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:04:27.701Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','154', 'false');","level":"info","timestamp":"2020-09-01T16:04:36.164Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:04:36.174Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','155', 'true');","level":"info","timestamp":"2020-09-01T16:04:41.419Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:04:41.429Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','156', 'true');","level":"info","timestamp":"2020-09-01T16:04:48.456Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:04:48.480Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','157', 'true');","level":"info","timestamp":"2020-09-01T16:04:54.180Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:04:54.189Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','158', 'true');","level":"info","timestamp":"2020-09-01T16:05:00.233Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:05:00.242Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','159', 'false');","level":"info","timestamp":"2020-09-01T16:05:05.837Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:05:05.847Z"}
+{"message":"LOG Insert query : INSERT INTO user_question_table(username, question_id, correct_answer)\n                                  VALUES ('devang@gmail.com','160', 'true');","level":"info","timestamp":"2020-09-01T16:05:12.720Z"}
+{"message":"LOG Answer question success : devang@gmail.com","level":"info","timestamp":"2020-09-01T16:05:12.731Z"}
